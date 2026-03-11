@@ -1,0 +1,38 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 16: multiple at clauses are prohibited.
+    show char_player at center at big
+                                 ^
+
+File "game/script.rpy", line 19: multiple at clauses are prohibited.
+    show char_friend_happy at right at big
+                                      ^
+
+File "game/script.rpy", line 55: multiple at clauses are prohibited.
+    show char_player at center at big
+                                 ^
+
+File "game/script.rpy", line 56: multiple at clauses are prohibited.
+    show char_friend_happy at right at big
+                                      ^
+
+File "game/script.rpy", line 63: multiple at clauses are prohibited.
+    show char_player at center at big
+                                 ^
+
+File "game/script.rpy", line 64: multiple at clauses are prohibited.
+    show char_friend_happy at right at big
+                                      ^
+
+File "game/script.rpy", line 71: multiple at clauses are prohibited.
+    show char_player at center at big
+                                 ^
+
+File "game/script.rpy", line 72: multiple at clauses are prohibited.
+    show char_friend_happy at right at big
+                                      ^
+
+Ren'Py Version: Ren'Py 8.5.2.26010301
+Wed Mar 11 03:35:40 2026
